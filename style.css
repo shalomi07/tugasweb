@@ -25,9 +25,15 @@ button {
 #reset:hover{
     background-color: rgb(158, 14, 14);
 }
+#reset:active{
+    background-color: rgb(204, 59, 59);
+}
 
 button:hover {
     background-color: #191a61;
+}
+button:active{
+    background-color:rgb(70, 70, 116);
 }
 
 h1{
